@@ -1,0 +1,7 @@
+public class Rook extends Chess{
+     private string color;
+     public string toString(){
+           return color+"R    ";
+     }
+     
+}
